@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">926954108162-nl0ao5lbo4qot1hq98v2errgbjt9gagj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">926954108162</string>
+    <string name="google_api_key" translatable="false">AIzaSyC4x2bdX6tT8zMPaaE5ozkOr1RiECteuEg</string>
+    <string name="google_app_id" translatable="false">1:926954108162:android:1ca0e07a97df1ffa3c3e1b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC4x2bdX6tT8zMPaaE5ozkOr1RiECteuEg</string>
+    <string name="google_storage_bucket" translatable="false">bar-on-wheels-app.appspot.com</string>
+    <string name="project_id" translatable="false">bar-on-wheels-app</string>
+</resources>

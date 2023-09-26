@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926954108162",
+    "project_id": "bar-on-wheels-app",
+    "storage_bucket": "bar-on-wheels-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926954108162:android:1ca0e07a97df1ffa3c3e1b",
+        "android_client_info": {
+          "package_name": "com.example.bar_on_wheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926954108162-nl0ao5lbo4qot1hq98v2errgbjt9gagj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4x2bdX6tT8zMPaaE5ozkOr1RiECteuEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926954108162-nl0ao5lbo4qot1hq98v2errgbjt9gagj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926954108162-besv90r5t0lncebf4v2vqj195bmofv8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.barOnWheels"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
